@@ -1,0 +1,1 @@
+MalNotch's arch (btw) enemy, the software that places custom SFW flower patterns over the portion of the screen that is blocked by hardware notches. You won't see it, but others will (if you share it)
