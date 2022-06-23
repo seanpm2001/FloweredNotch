@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+MalNotch's arch (btw) enemy, the software that places custom SFW flower patterns over the portion of the screen that is blocked by hardware notches. You won't see it, but others will (if you share it)
