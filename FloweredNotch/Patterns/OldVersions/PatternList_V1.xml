@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Legend
+Notch X-S = Notch X start (starting pixel of the notch) (width)
+Notch X-E = Notch X end (ending pixel of the notch) (width)
+Notch Y-S = Notch Y start (starting pixel of the notch) (height)
+Notch Y-E = Notch Y end (ending pixel of the notch) (height)
+Note: this file is highly incomplete
+!-->
+<!-- Start of script !-->
+<!-- Patterns for FloweredNotch !-->
+<xml>
+  <patterns>
+    <list>
+      <nature>
+        <flowers>
+          <coming-soon>This texture pack collection is coming soon</coming-soon>
+        </flowers>
+        <beaches>
+          <coming-soon>This texture pack collection is coming soon</coming-soon>
+        </beaches>
+        <forest>
+          <coming-soon>This texture pack collection is coming soon</coming-soon>
+        </forest>
+        <ocean>
+          <coming-soon>This texture pack collection is coming soon</coming-soon>
+        </ocean>
+        <desert>
+          <coming-soon>This texture pack collection is coming soon</coming-soon>
+        </desert>
+        <stone>
+          <coming-soon>This texture pack collection is coming soon</coming-soon>
+        </stone>
+      </nature>
+      <space>
+        <galaxies-misc>
+          <coming-soon>This texture pack collection is coming soon</coming-soon>
+        </galaxies-misc>
+        <stars-misc>
+          <coming-soon>This texture pack collection is coming soon</coming-soon>
+        </stars-misc>
+      </space>
+      <cartoons>
+        <rubber-hose-animation>
+          <coming-soon>This texture pack collection is coming soon</coming-soon>
+        </rubber-hose-animation>
+        <stop-motion-animation>
+          <coming-soon>This texture pack collection is coming soon</coming-soon>
+        </stop-motion-animation>
+        <2d-anime>
+          <coming-soon>This texture pack collection is coming soon</coming-soon>
+        </2d-anime>
+        <3d-anime>
+          <coming-soon>This texture pack collection is coming soon</coming-soon>
+        </3d-anime>
+      </cartoons>
+    </list>
+  </patterns>
+</xml>
+<!-- Notes
+None of the texture packs are currently available
+The pattern list is highly incomplete
+!-->
+<!-- File info
+File type: XML source file (*.xml)
+File version: 1 (2022, Monday, June 27th at 8:21 pm PST
+Line count (including blank lines and compiler line): 70
+!-->
+<!-- End of script !-->
